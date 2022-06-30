@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("hehe");
+        System.out.println("hahahhahah");
     }
 }
